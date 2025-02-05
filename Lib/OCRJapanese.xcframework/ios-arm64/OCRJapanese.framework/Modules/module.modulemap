@@ -1,0 +1,6 @@
+framework module OCRJapanese {
+  umbrella header "OCRJapanese.h"
+  export *
+
+  module * { export * }
+}
